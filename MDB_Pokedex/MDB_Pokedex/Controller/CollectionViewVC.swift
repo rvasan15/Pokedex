@@ -61,7 +61,7 @@ class CollectionViewVC: UIViewController, UITabBarDelegate {
            definesPresentationContext = true
         
        sizes = [collectionView.frame.width, collectionView.frame.height/4]
-        
+    
         
     }
     
